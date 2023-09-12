@@ -26,4 +26,4 @@ jobs:
           app-name: 'icippntfza'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2A9B46F36EF41EC9877A941B5D4F912 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2315A341F6AB4A25BE44E19DBD5A29FC }}
